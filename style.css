@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica;
+  font-size: 1.6rem;
+  text-align: center;
+  background: black;
+  color: white;
+  font-family: helvetica;
+}
